@@ -1,0 +1,43 @@
+{
+  "project_name": "LARKSPUR RESIDENCE TOWER",
+  "project_number": "LR-088",
+  "change_order_number": "4",
+  "date": "2026-04-02",
+  "contractor": "Pinnacle Glazing",
+  "owner": "Larkspur Development LLC",
+  "description": "Replace cracked IGU at curtain wall elev. 12, grid C-4.",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "IGU 1 inch low-e 5x8",
+      "quantity": "1",
+      "unit": "EA",
+      "unit_price": "2450.00",
+      "amount": "2450.00"
+    },
+    {
+      "description": "Lift / night premium",
+      "quantity": "1",
+      "unit": "LS",
+      "unit_price": "875.00",
+      "amount": "875.00"
+    },
+    {
+      "description": "Interior protection",
+      "quantity": "1",
+      "unit": "LS",
+      "unit_price": "320.00",
+      "amount": "320.00"
+    }
+  ],
+  "line_subtotal": "3645.00",
+  "markup": "364.50",
+  "markup_percent": "10",
+  "tax": "0.00",
+  "tax_percent": null,
+  "other_fees": null,
+  "total": "4008.50",
+  "schedule_impact_days": 2,
+  "reason": "damage by follow-on trade",
+  "approval_status": "draft"
+}

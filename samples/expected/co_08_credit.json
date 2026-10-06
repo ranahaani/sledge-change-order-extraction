@@ -1,0 +1,36 @@
+{
+  "project_name": "Millwork package - Annex B",
+  "project_number": "ANX-B-03",
+  "change_order_number": "2",
+  "date": "2026-01-05",
+  "contractor": "Lumen Millwork",
+  "owner": "Annex B LLC",
+  "description": "Delete reception desk solid-surface top; substitute plastic laminate. Credit the difference.",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Delete solid surface top",
+      "quantity": "1",
+      "unit": "LS",
+      "unit_price": "-2400.00",
+      "amount": "-2400.00"
+    },
+    {
+      "description": "Add plastic laminate top",
+      "quantity": "1",
+      "unit": "LS",
+      "unit_price": "980.00",
+      "amount": "980.00"
+    }
+  ],
+  "line_subtotal": "-1420.00",
+  "markup": "98.00",
+  "markup_percent": "10",
+  "tax": "0.00",
+  "tax_percent": null,
+  "other_fees": null,
+  "total": "-1322.00",
+  "schedule_impact_days": -2,
+  "reason": "Value engineering",
+  "approval_status": "approved"
+}

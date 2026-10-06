@@ -1,0 +1,43 @@
+{
+  "project_name": null,
+  "project_number": null,
+  "change_order_number": "12",
+  "date": null,
+  "contractor": "Summit Interiors",
+  "owner": null,
+  "description": "Patch approx 40 sf of gypsum where plumber opened the chase.",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Vinyl corner bead",
+      "quantity": "2",
+      "unit": "EA",
+      "unit_price": "6.50",
+      "amount": "13.00"
+    },
+    {
+      "description": "Drywall patch",
+      "quantity": "40",
+      "unit": "SF",
+      "unit_price": "8.25",
+      "amount": "330.00"
+    },
+    {
+      "description": "Paint match",
+      "quantity": "1",
+      "unit": "LS",
+      "unit_price": "175.00",
+      "amount": "175.00"
+    }
+  ],
+  "line_subtotal": null,
+  "markup": null,
+  "markup_percent": null,
+  "tax": null,
+  "tax_percent": null,
+  "other_fees": null,
+  "total": "518.00",
+  "schedule_impact_days": 0,
+  "reason": "Unforeseen",
+  "approval_status": null
+}

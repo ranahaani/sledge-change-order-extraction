@@ -1,0 +1,22 @@
+CHANGE ORDER
+Project: Millwork package - Annex B
+Project No.: ANX-B-03
+Change Order Number: 2
+Date: January 5, 2026
+Contractor: Lumen Millwork
+Owner: Annex B LLC
+
+Description: Delete reception desk solid-surface top; substitute plastic laminate. Credit the difference.
+
+Item                         Qty   Unit   Unit Price    Amount
+Delete solid surface top       1     LS    -2,400.00    -2,400.00
+Add plastic laminate top       1     LS       980.00       980.00
+
+Subtotal: (1,420.00)
+Markup 10% on net adds only: 98.00
+Tax: 0.00
+Total credit: ($1,322.00)
+
+Schedule impact: -2 days (finish earlier)
+Reason: Value engineering
+Approval: Approved
