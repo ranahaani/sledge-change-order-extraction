@@ -1,0 +1,24 @@
+CHANGE 0RDER
+
+PR0JECT: LARKSPUR RES1DENCE T0WER
+PR0JECT N0: LR-088
+C0 N0: 4
+DATE: Apr1l 2, 2026
+0WNER: Larkspur Deve1opment LLC
+C0NTRACT0R: Pinnac1e G1azing
+
+Desc: Rep1ace cracked IGU at curtain wa11 elev. 12, grid C-4.
+Cause: damage by fo11ow-on trade. Backcharge pending.
+
+Descr1pt1on                 Qty   Un1t   Un1t Pr1ce    Am0unt
+IGU 1 inch low-e 5x8         1    EA      $2,450.OO      $2,450.OO
+Lift / night premium         1    LS        $875.O0        $875.O0
+Inter1or protection          1    LS        $320.00        $320.00
+
+Subtota1          $3,645.00
+Markup 10%         $364.50
+Tax exempt
+T0TAL             $4,008.50
+
+Schedu1e impact: 2 days
+Status: Draft - not signed

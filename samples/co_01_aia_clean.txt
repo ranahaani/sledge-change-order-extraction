@@ -1,0 +1,26 @@
+AIA DOCUMENT G701
+CHANGE ORDER
+
+PROJECT: Riverside Medical Pavilion
+PROJECT NO: RMP-2024-014
+CHANGE ORDER NO: 07
+DATE: March 14, 2025
+OWNER: Harborview Health System
+CONTRACTOR: Northline Builders, LLC
+
+The Contract is changed as follows:
+Furnish and install additional structural steel at Level 3 mechanical penthouse per ASI-12.
+
+Description                         Qty    Unit    Unit Price      Amount
+W10x33 beam, galvanized              18     LF     $86.50          $1,557.00
+Moment connection plates              6     EA    $240.00          $1,440.00
+Field welding and inspection          1     LS  $2,100.00          $2,100.00
+
+Subtotal                                                     $5,097.00
+OH&P Markup (15%)                                             $764.55
+Sales Tax (8.25%)                                             $483.58
+TOTAL CHANGE                                                 $6,345.13
+
+Schedule impact: 12 calendar days
+Reason: Design revision (ASI-12)
+Status: Approved - signed by Owner 03/18/2025

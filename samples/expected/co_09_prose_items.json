@@ -1,0 +1,36 @@
+{
+  "project_name": "Belmont Library reroof",
+  "project_number": "BL-22",
+  "change_order_number": "15",
+  "date": "2026-05-03",
+  "contractor": "Summit Roofing",
+  "owner": "City of Belmont",
+  "description": "Extra ice-and-water shield at the eaves, plus a crane day. Not on the base bid.",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "ice-and-water shield at the eaves",
+      "quantity": "620",
+      "unit": "SF",
+      "unit_price": "3.25",
+      "amount": "2015.00"
+    },
+    {
+      "description": "crane day",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": "1400.00"
+    }
+  ],
+  "line_subtotal": "3415.00",
+  "markup": "0.00",
+  "markup_percent": null,
+  "tax": null,
+  "tax_percent": "7",
+  "other_fees": null,
+  "total": "3654.05",
+  "schedule_impact_days": 1,
+  "reason": "owner request",
+  "approval_status": "pending"
+}

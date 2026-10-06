@@ -1,0 +1,99 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 2 /Kids [4 0 R 6 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 800 >>
+stream
+BT
+/F1 11 Tf
+54 750 Td
+(AIA DOCUMENT G701) Tj
+0 -14 Td
+(CHANGE ORDER) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(PROJECT: Riverside Medical Pavilion) Tj
+0 -14 Td
+(PROJECT NO: RMP-2024-014) Tj
+0 -14 Td
+(CHANGE ORDER NO: 07) Tj
+0 -14 Td
+(DATE: March 14, 2025) Tj
+0 -14 Td
+(OWNER: Harborview Health System) Tj
+0 -14 Td
+(CONTRACTOR: Northline Builders, LLC) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(The Contract is changed as follows:) Tj
+0 -14 Td
+(Furnish and install additional structural steel at Level 3 mechanical penthouse per ASI-12.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Description                         Qty    Unit    Unit Price      Amount) Tj
+0 -14 Td
+(W10x33 beam, galvanized              18     LF     $86.50          $1,557.00) Tj
+0 -14 Td
+(Moment connection plates              6     EA    $240.00          $1,440.00) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 636 >>
+stream
+BT
+/F1 11 Tf
+54 750 Td
+(Field welding and inspection          1     LS  $2,100.00          $2,100.00) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Subtotal                                                     $5,097.00) Tj
+0 -14 Td
+(OH&P Markup \(15%\)                                             $764.55) Tj
+0 -14 Td
+(Sales Tax \(8.25%\)                                             $483.58) Tj
+0 -14 Td
+(TOTAL CHANGE                                                 $6,345.13) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Schedule impact: 12 calendar days) Tj
+0 -14 Td
+(Reason: Design revision \(ASI-12\)) Tj
+0 -14 Td
+(Status: Approved - signed by Owner 03/18/2025) Tj
+ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+0000001168 00000 n 
+0000001294 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1981
+%%EOF

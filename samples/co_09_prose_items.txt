@@ -1,0 +1,19 @@
+From: estimating@summitroofing.example
+To: facilities@belmont.example
+Subject: CO 15 Belmont Library reroof
+
+This is change order 15 for the Belmont Library reroof (project BL-22), dated May 3, 2026.
+Owner is the City of Belmont. We're Summit Roofing.
+
+Description:
+Extra ice-and-water shield at the eaves, plus a crane day. Not on the base bid.
+
+Please approve an extra for ice-and-water shield at the eaves, about 620 square feet at $3.25 a foot, which comes to $2,015, plus a crane day at $1,400.
+
+Subtotal before tax: $3,415.00
+No markup on top of those unit prices.
+Tax: 7%
+Total: $3,654.05
+
+Adds one day. This is an owner request.
+I already signed; still need the city's signature.

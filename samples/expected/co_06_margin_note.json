@@ -1,0 +1,43 @@
+{
+  "project_name": "Harbor Pump Station Upgrade",
+  "project_number": "HPS-19",
+  "change_order_number": "11",
+  "date": "2025-11-20",
+  "contractor": "Redwood Civil",
+  "owner": "Metro Water Authority",
+  "description": "Extend 12 inch DIP water main an additional 35 LF to clear an unmarked utility.",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "12 inch DIP pipe",
+      "quantity": "35",
+      "unit": "LF",
+      "unit_price": "142.00",
+      "amount": "4970.00"
+    },
+    {
+      "description": "Fittings and restraints",
+      "quantity": "1",
+      "unit": "LS",
+      "unit_price": "1180.00",
+      "amount": "1180.00"
+    },
+    {
+      "description": "Trench patch asphalt",
+      "quantity": "18",
+      "unit": "SY",
+      "unit_price": "95.00",
+      "amount": "1710.00"
+    }
+  ],
+  "line_subtotal": "7860.00",
+  "markup": "628.80",
+  "markup_percent": "8",
+  "tax": "0.00",
+  "tax_percent": null,
+  "other_fees": null,
+  "total": "8488.80",
+  "schedule_impact_days": 6,
+  "reason": "Differing site condition",
+  "approval_status": "approved"
+}

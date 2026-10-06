@@ -1,0 +1,43 @@
+{
+  "project_name": "Riverside Medical Pavilion",
+  "project_number": "RMP-2024-014",
+  "change_order_number": "07",
+  "date": "2025-03-14",
+  "contractor": "Northline Builders, LLC",
+  "owner": "Harborview Health System",
+  "description": "Furnish and install additional structural steel at Level 3 mechanical penthouse per ASI-12.",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "W10x33 beam, galvanized",
+      "quantity": "18",
+      "unit": "LF",
+      "unit_price": "86.50",
+      "amount": "1557.00"
+    },
+    {
+      "description": "Moment connection plates",
+      "quantity": "6",
+      "unit": "EA",
+      "unit_price": "240.00",
+      "amount": "1440.00"
+    },
+    {
+      "description": "Field welding and inspection",
+      "quantity": "1",
+      "unit": "LS",
+      "unit_price": "2100.00",
+      "amount": "2100.00"
+    }
+  ],
+  "line_subtotal": "5097.00",
+  "markup": "764.55",
+  "markup_percent": "15",
+  "tax": "483.58",
+  "tax_percent": "8.25",
+  "other_fees": null,
+  "total": "6345.13",
+  "schedule_impact_days": 12,
+  "reason": "Design revision (ASI-12)",
+  "approval_status": "approved"
+}

@@ -1,0 +1,50 @@
+{
+  "project_name": "Oakdale City Hall Renovation",
+  "project_number": "26-118",
+  "change_order_number": "3",
+  "date": null,
+  "contractor": "Apex Mechanical Contractors",
+  "owner": null,
+  "description": "We need to relocate the condensate return because the existing line is cast iron and cracked behind the west wall.",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Demo and haul existing CI piping",
+      "quantity": "1",
+      "unit": "LS",
+      "unit_price": "1850.00",
+      "amount": "1850.00"
+    },
+    {
+      "description": "2 inch copper condensate, type L",
+      "quantity": "46",
+      "unit": "LF",
+      "unit_price": "38.75",
+      "amount": "1782.50"
+    },
+    {
+      "description": "Insulation, 1 inch fiberglass",
+      "quantity": "46",
+      "unit": "LF",
+      "unit_price": "9.40",
+      "amount": "432.40"
+    },
+    {
+      "description": "After-hours premium (Friday night)",
+      "quantity": "8",
+      "unit": "HR",
+      "unit_price": "95.00",
+      "amount": "760.00"
+    }
+  ],
+  "line_subtotal": "4824.90",
+  "markup": "0.00",
+  "markup_percent": null,
+  "tax": "0.00",
+  "tax_percent": null,
+  "other_fees": null,
+  "total": "4824.90",
+  "schedule_impact_days": 4,
+  "reason": "unforeseen existing condition",
+  "approval_status": "pending"
+}

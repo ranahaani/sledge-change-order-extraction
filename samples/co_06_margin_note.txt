@@ -1,0 +1,28 @@
+CHANGE ORDER
+Project Name: Harbor Pump Station Upgrade
+Project Number: HPS-19
+CO No.: 11
+Date: 11/20/2025
+Owner: Metro Water Authority
+Contractor: Redwood Civil
+
+Description of work:
+Extend 12 inch DIP water main an additional 35 LF to clear an unmarked utility.
+
+Description                  Qty    Unit   Unit Price    Amount
+12 inch DIP pipe              35     LF     142.00        4,970.00
+Fittings and restraints        1     LS   1,180.00        1,180.00
+Trench patch asphalt          18     SY      95.00        1,710.00
+
+Subtotal:    7,860.00
+Markup 8%:     628.80
+Tax:           0.00
+Total:       8,488.80
+
+Schedule impact: 6 days
+Reason: Differing site condition
+Approval: Approved by inspector
+
+--- handwritten in margin ---
+add dumpster + temp fence  $450  (JD 11/21)  NOT IN TOTAL YET
+also make it 7 days??

@@ -1,0 +1,50 @@
+{
+  "project_name": "Westfield Elementary Addition",
+  "project_number": "4412",
+  "change_order_number": "COR-19",
+  "date": "2026-02-02",
+  "contractor": "Helios Concrete",
+  "owner": "Westfield School District",
+  "description": "Add thickened slab and extra rebar at the kitchen equipment pad per RFI-44.",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Slab thickening 6 inch to 8 inch",
+      "quantity": "220",
+      "unit": "SF",
+      "unit_price": "4.75",
+      "amount": "1045.00"
+    },
+    {
+      "description": "#5 rebar at 12 inch o.c.",
+      "quantity": "380",
+      "unit": "LB",
+      "unit_price": "1.15",
+      "amount": "437.00"
+    },
+    {
+      "description": "Dowels, epoxy",
+      "quantity": "24",
+      "unit": "EA",
+      "unit_price": "18.00",
+      "amount": "432.00"
+    },
+    {
+      "description": "Pump truck Saturday",
+      "quantity": "1",
+      "unit": "LS",
+      "unit_price": "650.00",
+      "amount": "650.00"
+    }
+  ],
+  "line_subtotal": "2800.00",
+  "markup": null,
+  "markup_percent": null,
+  "tax": "0.00",
+  "tax_percent": null,
+  "other_fees": null,
+  "total": "2800.00",
+  "schedule_impact_days": 3,
+  "reason": "Owner request",
+  "approval_status": "pending"
+}

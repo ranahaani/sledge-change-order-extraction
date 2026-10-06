@@ -1,0 +1,43 @@
+{
+  "project_name": "Kenmore Parking Garage Restoration",
+  "project_number": "KPG-6",
+  "change_order_number": "CO-2026-002",
+  "date": "2026-06-01",
+  "contractor": "Bayshore Restoration Inc.",
+  "owner": "Kenmore Properties",
+  "description": "Epoxy inject approx. 140 LF of slab cracks at level P2, and recoat the drive lane.",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Crack injection, epoxy",
+      "quantity": "140",
+      "unit": "LF",
+      "unit_price": "18.50",
+      "amount": "2590.00"
+    },
+    {
+      "description": "Traffic coating, urethane",
+      "quantity": "1200",
+      "unit": "SF",
+      "unit_price": "4.10",
+      "amount": "4920.00"
+    },
+    {
+      "description": "Mobilization",
+      "quantity": "1",
+      "unit": "LS",
+      "unit_price": "800.00",
+      "amount": "800.00"
+    }
+  ],
+  "line_subtotal": "8310.00",
+  "markup": "997.20",
+  "markup_percent": "12",
+  "tax": "614.04",
+  "tax_percent": "6.5",
+  "other_fees": "139.61",
+  "total": "10060.85",
+  "schedule_impact_days": 0,
+  "reason": "Latent defect",
+  "approval_status": "pending"
+}

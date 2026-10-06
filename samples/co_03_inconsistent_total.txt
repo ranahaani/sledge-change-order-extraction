@@ -1,0 +1,22 @@
+CHANGE ORDER REQUEST
+CO Number: COR-19
+Project: Westfield Elementary Addition (No. 4412)
+Date: 02/02/2026
+Contractor: Helios Concrete
+Client: Westfield School District
+
+Description: Add thickened slab and extra rebar at the kitchen equipment pad per RFI-44.
+
+Item                          Qty     Unit    Price      Ext
+Slab thickening 6 inch to 8 inch     220     SF      4.75       1,045.00
+#5 rebar at 12 inch o.c.             380     LB      1.15         437.00
+Dowels, epoxy                         24     EA     18.00         432.00
+Pump truck Saturday                    1     LS    650.00         650.00
+
+Subtotal: $2,800.00
+Tax: $0.00
+Total: $2,800.00
+
+Time: 3 days
+Category: Owner request
+Approval: Pending GC review
